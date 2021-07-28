@@ -83,4 +83,21 @@ Here are a few times during which you can find us for questions/comments.
 
 ##  Support or Contact
 
-Please see ElasticBLAST's [support page](https://blast.ncbi.nlm.nih.gov/doc/elastic-blast/support.html) or [contact support via the Slack BOSC CoFest 2021 channel](https://obf-bosc.slack.com/archives/C01M9N7B02E) and we’ll help you sort it out.
+The ElasticBLAST team will be reachable via [the Slack BOSC CoFest 2021 channel](https://obf-bosc.slack.com/archives/C01M9N7B02E). 
+
+To help us help you better, when reporting problems, please provide us with:
+
+1. Your configuration file
+2. The ElasticBLAST logfile (`elastic-blast.log` by default)
+3. Your system’s information, i.e. the output of the commands below:
+
+```markdown
+# It' is OK if any of these commands fail ;)
+uname -a
+python3 -m sysconfig
+env
+
+aws sts get-caller-identity
+aws configure list
+aws cloudformation describe-stack-events --stack-name $(awk '/name.:/ {print $NF}' elastic-blast.log | tr -d ",'" | tail -1) --region $(awk '/region.:/ {print $NF}' elastic-blast.log | tr -d ",}'" | tail -1) --output json
+```
