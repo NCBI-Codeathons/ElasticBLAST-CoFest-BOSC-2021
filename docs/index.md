@@ -62,10 +62,11 @@ start](https://blast.ncbi.nlm.nih.gov/doc/elastic-blast/quickstart-aws.html).
 Here are a few ideas to work on during the CollaborationFest:
 
 * Try it out and let us know how it works
-* Help us improve the documentation.
+* Help us improve the [documentation](https://blast.ncbi.nlm.nih.gov/doc/elastic-blast).
 * Write a script to make ElasticBLAST part of your workflow.
-* Try to process ElasticBLAST results with cloud-native tools. 
-* Bring your own high throughput BLAST search problem to use with ElasticBLAST!  Please discuss it with us first to make sure you don’t blow our budget and get the ElasticBLAST team in trouble!
+* Try to process ElasticBLAST results with cloud-native tools (see [this
+  article](https://medium.com/codex/blast-on-the-cloud-with-ncbis-elasticblast-3b35b29afde7) for an example). 
+* Bring your own high throughput BLAST search problem to use with ElasticBLAST! Please discuss it with us first to make sure you don’t blow our budget and get the ElasticBLAST team in trouble!
 
 ## 5 -  Draft schedule
 
