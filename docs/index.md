@@ -68,18 +68,22 @@ Here are a few ideas to work on during the CollaborationFest:
   article](https://medium.com/codex/blast-on-the-cloud-with-ncbis-elasticblast-3b35b29afde7) for an example). 
 * Bring your own high throughput BLAST search problem to use with ElasticBLAST! Please discuss it with us first to make sure you don’t blow our budget and get the ElasticBLAST team in trouble!
 
-## 5 -  Draft schedule
+## 5 - Schedule
 
-* Kick off
-* Intro
-* Check in # 1
-* Check in # 2
-* Check in # 3
-* Close out
+| Event | Time UTC | Time EST|
+|-------|----------| -------|
+| Roundtable at BOSC NCBI Posters and Collaboration Fest| July 29, 2021 14:00 | July 29, 2021 10:00 |
+| Roundtable at BOSC NCBI Posters and Collaboration Fest| July 29, 2021 16:30 | July 29, 2021 12:30 |
+| Collaboration Fest Kickoff | TBD  | TBD |
+| Office hours | TBD  | TBD |
+| Office hours | TBD  | TBD |
+| Office hours | TBD  | TBD |
+| Feedback session | TBD  | TBD |
+| Closing presentation | August 1, 2021 19:00  | August 1, 2021 15:00 |
 
 ##  Office hours
 
-Here are a few times during which you can find us for questions/comments.
+Please see the times in the schedule above during which you can find us for questions/comments.
 
 ##  Support or Contact
 
