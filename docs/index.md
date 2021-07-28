@@ -52,10 +52,34 @@ your last name.
 
 ![img9](images/img9-conf-review-c9.png)
 
-### Try the quick start
+## 3 -  Try the quick start
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Next we recommend you try the [ElasticBLAST quick
+start](https://blast.ncbi.nlm.nih.gov/doc/elastic-blast/quickstart-aws.html).
 
-### Support or Contact
+## 4 -  Ideas to try
+
+Here are a few ideas to work on during the CollaborationFest:
+
+* Try it out and let us know how it works
+* Help us improve the documentation.
+* Write a script to make ElasticBLAST part of your workflow.
+* Try to process ElasticBLAST results with cloud-native tools. 
+* Bring your own high throughput BLAST search problem to use with ElasticBLAST!  Please discuss it with us first to make sure you don’t blow our budget and get the ElasticBLAST team in trouble!
+
+## 4 -  Draft schedule
+
+* Kick off
+* Intro
+* Check in # 1
+* Check in # 2
+* Check in # 3
+* Close out
+
+##  Office hours
+
+Here are a few times during which you can find us for questions/comments.
+
+##  Support or Contact
 
 Please see ElasticBLAST's [support page](https://blast.ncbi.nlm.nih.gov/doc/elastic-blast/support.html) or [contact support via the Slack BOSC CoFest 2021 channel](https://obf-bosc.slack.com/archives/C01M9N7B02E) and we’ll help you sort it out.
