@@ -67,7 +67,7 @@ Here are a few ideas to work on during the CollaborationFest:
 * Try to process ElasticBLAST results with cloud-native tools. 
 * Bring your own high throughput BLAST search problem to use with ElasticBLAST!  Please discuss it with us first to make sure you don’t blow our budget and get the ElasticBLAST team in trouble!
 
-## 4 -  Draft schedule
+## 5 -  Draft schedule
 
 * Kick off
 * Intro
