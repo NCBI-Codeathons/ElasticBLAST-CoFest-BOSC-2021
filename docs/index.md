@@ -55,7 +55,7 @@ your last name.
 ## 3 -  Try the quick start
 
 Next we recommend you try the [ElasticBLAST quick
-start](https://blast.ncbi.nlm.nih.gov/doc/elastic-blast/quickstart-aws.html).
+start](https://blast.ncbi.nlm.nih.gov/doc/elastic-blast/quickstart-aws.html)
 on AWS Cloud9.
 
 ## 4 -  Ideas to try
