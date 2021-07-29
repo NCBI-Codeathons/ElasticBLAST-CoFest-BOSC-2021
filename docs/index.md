@@ -77,8 +77,8 @@ Here are a few ideas to work on during the CollaborationFest:
 1. Run your ElasticBLAST search with a subset of the query sequence data you intend to work with as a first try, then observe the performance.
 1. Label your ElasticBLAST searches, e.g.: set `owner=LASTNAME` as described in the [documentation](https://blast.ncbi.nlm.nih.gov/doc/elastic-blast/configuration.html#cloud-resource-labels).
 1. You can easily search and filter AWS EC2 instance types in [https://ec2instances.info](https://ec2instances.info).
-   1. A handy memory tip: use the "R" instance family if you expect lots of
-      BLAST results (these are [memory optimized machines](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/memory-optimized-instances.html))
+  1. For the default instance type `m5.8xlarge`, please set the `blast.mem-limit` to 61G.
+  1. A handy memory tip: use the "R" instance family if you expect lots of BLAST results (these are [memory optimized machines](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/memory-optimized-instances.html))
 
 ## 6 - Schedule
 
