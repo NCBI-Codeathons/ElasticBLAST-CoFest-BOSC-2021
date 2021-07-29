@@ -79,6 +79,7 @@ Here are a few ideas to work on during the CollaborationFest:
 1. You can easily search and filter AWS EC2 instance types in [https://ec2instances.info](https://ec2instances.info).
   1. For the default instance type `m5.8xlarge`, please set the `blast.mem-limit` to 61G.
   1. A handy memory tip: use the "R" instance family if you expect lots of BLAST results (these are [memory optimized machines](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/memory-optimized-instances.html))
+1. If you are using an instance type with more than 16 vCPUs, for better performance set `mem-limit` parameter in elastic-blast config file to a value close to memory-available-on-the-instance / (number-of-cpus-available / 16) - 2GB
 
 ## 6 - Schedule
 
