@@ -70,7 +70,17 @@ Here are a few ideas to work on during the CollaborationFest:
   article](https://medium.com/codex/blast-on-the-cloud-with-ncbis-elasticblast-3b35b29afde7) for an example). 
 * Bring your own high throughput BLAST search problem to use with ElasticBLAST! Please discuss it with us first to make sure you don’t blow our budget and get the ElasticBLAST team in trouble!
 
-## 5 - Schedule
+## 5 - Tips
+
+1. Please use the `--loglevel DEBUG` command line option for greater diagnostics to be saved into the log file `elastic-blast.log`.
+1. `elastic-blast submit` has a `--dry-run` option that does some configuration validation and logs what would be done.
+1. Run your ElasticBLAST search with a subset of the query sequence data you intend to work with as a first try, then observe the performance.
+1. Label your ElasticBLAST searches, e.g.: set `owner=LASTNAME` as described in the [documentation](https://blast.ncbi.nlm.nih.gov/doc/elastic-blast/configuration.html#cloud-resource-labels).
+1. You can easily search and filter AWS EC2 instance types in [https://ec2instances.info](https://ec2instances.info).
+   1. A handy memory tip: use the "R" instance family if you expect lots of
+      BLAST results (these are [memory optimized machines](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/memory-optimized-instances.html))
+
+## 6 - Schedule
 
 | Event | Time UTC | Time EST|
 |-------|----------| -------|
