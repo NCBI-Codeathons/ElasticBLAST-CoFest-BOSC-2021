@@ -90,7 +90,7 @@ Please see the times in the schedule above during which you can find us for ques
 ##  Contribute
 
 Please save your work in this github repository:
-https://github.com/NCBI-Codeathons/ElasticBLAST-CoFest-BOSC-2021
+[https://github.com/NCBI-Codeathons/ElasticBLAST-CoFest-BOSC-2021](https://github.com/NCBI-Codeathons/ElasticBLAST-CoFest-BOSC-2021)
 
 
 ##  Support or Contact
