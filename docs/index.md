@@ -87,6 +87,12 @@ Here are a few ideas to work on during the CollaborationFest:
 
 Please see the times in the schedule above during which you can find us for questions/comments.
 
+##  Contribute
+
+Please save your work in this github repository:
+https://github.com/NCBI-Codeathons/ElasticBLAST-CoFest-BOSC-2021
+
+
 ##  Support or Contact
 
 The ElasticBLAST team will be reachable via [the Slack BOSC CoFest 2021 channel](https://obf-bosc.slack.com/archives/C01M9N7B02E). 
