@@ -73,7 +73,7 @@ Here are a few ideas to work on during the CollaborationFest:
 | Event | Time UTC | Time EST|
 |-------|----------| -------|
 | Roundtable at BOSC NCBI Posters and Collaboration Fest| July 29, 2021 14:00 | July 29, 2021 10:00 |
-| Roundtable at BOSC NCBI Posters and Collaboration Fest| July 29, 2021 16:30 | July 29, 2021 12:30 |
+| ElasticBLAST poster presentation | July 29, 2021 15:20 | July 29, 2021 11:20 |
 | Collaboration Fest Kickoff | TBD  | TBD |
 | Office hours | TBD  | TBD |
 | Office hours | TBD  | TBD |
