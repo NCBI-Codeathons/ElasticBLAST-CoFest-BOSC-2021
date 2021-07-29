@@ -56,6 +56,7 @@ your last name.
 
 Next we recommend you try the [ElasticBLAST quick
 start](https://blast.ncbi.nlm.nih.gov/doc/elastic-blast/quickstart-aws.html).
+on AWS Cloud9.
 
 ## 4 -  Ideas to try
 
@@ -64,6 +65,7 @@ Here are a few ideas to work on during the CollaborationFest:
 * Try it out and let us know how it works
 * Help us improve the [documentation](https://blast.ncbi.nlm.nih.gov/doc/elastic-blast).
 * Write a script to make ElasticBLAST part of your workflow.
+* Example query sequence to try: all hepatis virus B sequences: s3://elasticblast-test/queries/hepatitis.fsa.gz
 * Try to process ElasticBLAST results with cloud-native tools (see [this
   article](https://medium.com/codex/blast-on-the-cloud-with-ncbis-elasticblast-3b35b29afde7) for an example). 
 * Bring your own high throughput BLAST search problem to use with ElasticBLAST! Please discuss it with us first to make sure you don’t blow our budget and get the ElasticBLAST team in trouble!
@@ -74,11 +76,11 @@ Here are a few ideas to work on during the CollaborationFest:
 |-------|----------| -------|
 | Roundtable at BOSC NCBI Posters and Collaboration Fest| July 29, 2021 14:00 | July 29, 2021 10:00 |
 | ElasticBLAST poster presentation | July 29, 2021 15:20 | July 29, 2021 11:20 |
-| Collaboration Fest Kickoff | TBD  | TBD |
-| Office hours | TBD  | TBD |
-| Office hours | TBD  | TBD |
-| Office hours | TBD  | TBD |
-| Feedback session | TBD  | TBD |
+| Collaboration Fest Kickoff | July 30, 2021 19:00? | July 30, 2021 15:00  |
+| Office hours | July 31, 2021 14:00  | July 31, 2021 10:00 |
+| Office hours | July 31, 2021 18:00  | July 31, 2021 14:00 |
+| Office hours | August 1, 2021 14:00 | August 1, 2021 10:00 |
+| Feedback session | August 1, 2021 17:00  | August 1, 2021 13:00 |
 | Closing presentation | August 1, 2021 19:00  | August 1, 2021 15:00 |
 
 ##  Office hours
