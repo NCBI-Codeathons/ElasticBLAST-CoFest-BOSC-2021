@@ -86,7 +86,7 @@ Here are a few ideas to work on during the CollaborationFest:
 |-------|----------| -------|
 | Roundtable at BOSC NCBI Posters and Collaboration Fest| July 29, 2021 14:00 | July 29, 2021 10:00 |
 | ElasticBLAST poster presentation | July 29, 2021 15:20 | July 29, 2021 11:20 |
-| Collaboration Fest Kickoff | July 30, 2021 19:00? | July 30, 2021 15:00  |
+| Collaboration Fest Kickoff | July 30, 2021 19:00 | July 30, 2021 15:00  |
 | Office hours | July 31, 2021 14:00  | July 31, 2021 10:00 |
 | Office hours | July 31, 2021 18:00  | July 31, 2021 14:00 |
 | Office hours | August 1, 2021 14:00 | August 1, 2021 10:00 |
