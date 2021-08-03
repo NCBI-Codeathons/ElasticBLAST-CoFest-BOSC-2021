@@ -1,5 +1,8 @@
 # ElasticBLAST at BOSC Collaboration Fest 2021
 
+Please check out our [conference Poster](https://ftp.ncbi.nlm.nih.gov/blast/documents/ElasticBLAST-Poster2021v2.pdf) and 
+[video presentation](https://www.youtube.com/watch?v=topBozEJGIk)!
+
 ## 1 - Log in & Navigate to the AWS Console Page
 
 1) Find your credential email with subject: **NCBI Codethon Credentials**
